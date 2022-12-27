@@ -1,0 +1,40 @@
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Аэропорт.csproj.AssemblyReference.cache
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\MainWindow.g.cs
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Raspisanie.g.cs
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\App.g.cs
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Аэропорт_MarkupCompile.cache
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Аэропорт_MarkupCompile.lref
+C:\Users\PC-8\source\repos\Аэропорт\bin\Debug\Аэропорт.exe.config
+C:\Users\PC-8\source\repos\Аэропорт\bin\Debug\Аэропорт.exe
+C:\Users\PC-8\source\repos\Аэропорт\bin\Debug\Аэропорт.pdb
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\MainWindow.baml
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Raspisanie.baml
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Аэропорт.g.resources
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Аэропорт.Properties.Resources.resources
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Аэропорт.csproj.GenerateResource.cache
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Аэропорт.csproj.CoreCompileInputs.cache
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Аэропорт.exe
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Аэропорт.pdb
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Jobs.g.cs
+C:\Users\PC-8\source\repos\Аэропорт\obj\Debug\Jobs.baml
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Аэропорт.csprojAssemblyReference.cache
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Tovar.g.cs
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\MainWindow.g.cs
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Zakaz.g.cs
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\App.g.cs
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Tovar.baml
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\MainWindow.baml
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Zakaz.baml
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\bin\Debug\Мебельный цех.exe.config
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\bin\Debug\Мебельный цех.exe
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\bin\Debug\Мебельный цех.pdb
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Мебельный цех_MarkupCompile.cache
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Мебельный цех_MarkupCompile.lref
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Мебельный цех.g.resources
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Мебельный.Properties.Resources.resources
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Аэропорт.csproj.GenerateResource.cache
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Аэропорт.csproj.CoreCompileInputs.cache
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Мебельный цех.exe
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\obj\Debug\Мебельный цех.pdb
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\bin\Debug\Мебельный цех.exe.CodeAnalysisLog.xml
+C:\Users\user_12\Desktop\экзамен мебельный цех\Мебельный цех\hlep\bin\Debug\Мебельный цех.exe.lastcodeanalysissucceeded

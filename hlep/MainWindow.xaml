@@ -1,0 +1,21 @@
+﻿<Window x:Class="Аэропорт.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Аэропорт"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="hlep.jpg"/>
+        </Grid.Background>
+
+        <TextBlock Text="Информационная система мебельного цеха" FontSize="30" FontWeight="Bold" Foreground="White" Margin="104,10,104,324"  TextAlignment="Center" Background="#FF7F6C6C" TextWrapping="Wrap" />
+        <Button Content="Заказы" HorizontalAlignment="Left" Height="57" Margin="37,144,0,0" VerticalAlignment="Top" Width="194" Click="Button_Click"/>
+        <Button Content="Товары" HorizontalAlignment="Left" Height="56" Margin="289,145,0,0" VerticalAlignment="Top" Width="194" Click="Button_Click_1"/>
+        <Button Content="." HorizontalAlignment="Left" Height="57" Margin="545,144,0,0" VerticalAlignment="Top" Width="192"/>
+        <Button Content="Закрыть" HorizontalAlignment="Left" Height="56" Margin="289,311,0,0" VerticalAlignment="Top" Width="194" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>
